@@ -7,7 +7,7 @@ function App() {
     <>
       <div>
         <h1 style={{ color: "darkorange", fontFamily: "Arial" }}>
-          Learning how to swim
+          Learning to swim
         </h1>
         {entries.map((entry) => {
           return <Entry {...entry} />;

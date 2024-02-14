@@ -29,6 +29,7 @@ const Container = styled.div`
   border-radius: 10px;
   padding: 20px;
   font-family: "Arial";
+  margin-bottom: 20px;
 `;
 
 const Label = styled.p`
