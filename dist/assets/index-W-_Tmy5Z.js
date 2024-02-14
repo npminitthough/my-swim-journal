@@ -45,6 +45,7 @@ Error generating stack: `+o.message+`
   border-radius: 10px;
   padding: 20px;
   font-family: "Arial";
+  margin-bottom: 20px;
 `,Go=mo.p`
   font-weight: bold;
-`,Xo=mo.p``;function Om(){return pe.jsx(pe.Fragment,{children:pe.jsxs("div",{children:[pe.jsx("h1",{style:{color:"darkorange",fontFamily:"Arial"},children:"Learning how to swim"}),Th.map(e=>pe.jsx(Rm,{...e}))]})})}Zo.createRoot(document.getElementById("root")).render(pe.jsx(En.StrictMode,{children:pe.jsx(Om,{})}));
+`,Xo=mo.p``;function Om(){return pe.jsx(pe.Fragment,{children:pe.jsxs("div",{children:[pe.jsx("h1",{style:{color:"darkorange",fontFamily:"Arial"},children:"Learning to swim"}),Th.map(e=>pe.jsx(Rm,{...e}))]})})}Zo.createRoot(document.getElementById("root")).render(pe.jsx(En.StrictMode,{children:pe.jsx(Om,{})}));
